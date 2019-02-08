@@ -81,6 +81,8 @@ So my first attempt was to do this over the internet... Not so lucky...
 
 Script "insert_data.py"
 
+- note: Its probably better to use pipelines but I couldn't get it to work.
+
 From this I learnt that you'll need to make sure to use square brackets and double quotes when inserting objects.
 
 So we'll have to get tile38 running on the instance and then run the code directly there.
@@ -135,4 +137,6 @@ There are a number of other approaches that might be valid:
 - Further analysis - https://medium.com/@frederic.rodrigo/pbf2redis-eae7fcada735
 - Fast processing - http://matthewrocklin.com/blog/work/2017/09/21/accelerating-geopandas-1
 - Cython Geopandas - https://jorisvandenbossche.github.io/blog/2017/09/19/geopandas-cython/
+- Aurora AWS - https://aws.amazon.com/blogs/database/amazon-aurora-under-the-hood-indexing-geospatial-data-using-z-order-curves/
+
 

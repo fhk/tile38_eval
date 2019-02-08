@@ -1,0 +1,3261 @@
+Data collected by OpenAddresses (http://openaddresses.io).
+
+us/al/autauga
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/baldwin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/bibb
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/blount
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/bullock
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/calhoun
+Website: Unknown
+License: Unknown
+Required attribution: Calhoun County
+
+us/al/city_of_auburn
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/city_of_huntsville
+Website: http://maps.huntsvilleal.gov
+License: Unknown
+Required attribution: City of Huntsville
+
+us/al/city_of_mobile
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/city_of_robertsdale
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/colbert
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/cullman
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/elmore
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/etowah
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/franklin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/houston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/jackson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/jefferson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/lauderdale
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/lawrence
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/limestone
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/madison
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/marengo
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/marshall
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/montgomery
+Website: http://montgomeryal.gov
+License: Unknown
+Required attribution: City of Montgomery
+
+us/al/morgan
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/pickens
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/pike
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/shelby
+Website: Unknown
+License: Unknown
+Required attribution: Shelby County
+
+us/al/st_clair
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/talladega
+Website: Unknown
+License: Unknown
+Required attribution: Talladega County
+
+us/al/tuscaloosa
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/al/washington
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ar/boone
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ar/city_of_fayetteville
+Website: http://www.fayetteville-ar.gov/384/GIS-Interactive-Maps
+License: Unknown
+Required attribution: City of Fayetteville
+
+us/ar/statewide
+Website: http://gis.arkansas.gov/?product=situs-address-points
+License: Unknown
+Required attribution: Arkansas Geographic Information Office
+
+us/dc/statewide
+Website: Unknown
+License: https://dc.gov/page/terms-and-conditions-use-district-data
+Required attribution: City of Washington
+
+us/de/city_of_dover
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/de/city_of_newark
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/de/kent
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/de/new_castle
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/de/sussex
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/_loveland
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/alachua
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/bay
+Website: http://www.baycountyfl.gov/gis/downloads2.php?agreecheck=on
+License: Unknown
+Required attribution: Bay County
+
+us/fl/brevard
+Website: http://www.brevardfl.gov/MapsAndApps
+License: Unknown
+Required attribution: Brevard County
+
+us/fl/broward
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/charlotte
+Website: https://www.charlottecountyfl.gov/services/gis/Pages/Shapefile-Gallery.aspx
+License: Unknown
+Required attribution: Charlotte County
+
+us/fl/citrus
+Website: https://gis.citrusbocc.com/data-downloads.html
+License: Unknown
+Required attribution: Citrus County
+
+us/fl/city_of_fort_lauderdale
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/city_of_gainesville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/city_of_key_biscayne
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/city_of_lakeland
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/city_of_pinellas_park
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/city_of_west_palm_beach
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/clay
+Website: http://www.ccpao.com/datadownloadGIS_all.html
+License: Unknown
+Required attribution: Clay County
+
+us/fl/collier
+Website: http://www.colliergov.net/Index.aspx?page=2713
+License: Public Domain
+Required attribution: Yes
+
+us/fl/desoto
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/duval
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/escambia
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/flagler
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/gulf
+Website: http://maps2.roktech.net/GulfGoMaps4/?mapName=GIS
+License: Unknown
+Required attribution: Yes
+
+us/fl/hernando
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/highlands
+Website: http://www.hcbcc.net/departments/office_of_administrative_services/gis/index.php
+License: Unknown
+Required attribution: Highlands County, FL
+
+us/fl/hillsborough
+Website: ftp://ftp.hillsboroughcounty.org/
+License: Unknown
+Required attribution: Hillsborough County
+
+us/fl/indian_river
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/lake
+Website: http://www.lakecountyfl.gov/departments/information_technology/geographic_information_services/datadownloads.aspx
+License: Public Domain
+Required attribution: Yes
+
+us/fl/lee
+Website: http://www.leegov.com/gis/data
+License: Indemnification (http://www.leegov.com/gis/data/gis-data)
+Required attribution: Yes
+
+us/fl/leon
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/manatee
+Website: http://www.mymanatee.org/home/government/departments/information-technology/gis-home/gis-datadownload.html
+License: Public Domain
+Required attribution: Yes
+
+us/fl/marion
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/martin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/miami
+Website: http://gisweb.miamidade.gov/GISSelfServices/GeographicData/MDGeographicData.html
+License: Public Domain
+Required attribution: Yes
+
+us/fl/nassau
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/okaloosa
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/orange_county
+Website: Unknown
+License: Public Domain
+Required attribution: Yes
+
+us/fl/osceola
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/palm_beach_county
+Website: http://www.pbcgov.com/iss/itoperations/cwgis/GISdatasearch/
+License: Public Domain
+Required attribution: Yes
+
+us/fl/pasco
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/pinellas
+Website: http://gis.pinellascounty.org/gisData/gisDataSets.aspx
+License: Indemnification
+Required attribution: Yes
+
+us/fl/putnam
+Website: Unknown
+License: Unknown
+Required attribution: Putnam County
+
+us/fl/santa_rosa
+Website: http://data1-santarosagis.opendata.arcgis.com/datasets/structures
+License: Unknown
+Required attribution: Yes
+
+us/fl/sarasota
+Website: https://hub.arcgis.com/datasets/8f17abc4d8664f079cecc944d86c31a1_0
+License: Public Domain
+Required attribution: Yes
+
+us/fl/seminole
+Website: http://www.seminolecountyfl.gov/departments-services/information-services/gis-geographic-information-systems/gis-data.stml
+License: Indemnification
+Required attribution: Yes
+
+us/fl/st-johns
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/st-lucie
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/statewide
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/sumter
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/fl/volusia
+Website: http://www.volusia.org/services/financial-and-administrative-services/information-technology/geographic-information-services/data-available-in-shapefile-format.stml
+License: Public Domain
+Required attribution: Yes
+
+us/fl/walton
+Website: http://www.co.walton.fl.us/index.aspx?NID=926
+License: Indemnification (http://www.co.walton.fl.us/index.aspx?nid=926)
+Required attribution: Yes
+
+us/ga/appling
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/atkinson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/bacon
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/bartow
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/ben_hill
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/berrien
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/bibb
+Website: http://bibbgis.co.bibb.ga.us/mapsandapps/
+License: Unknown
+Required attribution: Yes
+
+us/ga/bleckley
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/brantley
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/brooks
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/bryan
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/burke
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/calhoun
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/camden
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/candler
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/carroll
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/charlton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/chatham
+Website: http://sagis.maps.arcgis.com/home/
+License: Unknown
+Required attribution: City of Savannah
+
+us/ga/cherokee
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/city_of_alma
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/city_of_alpharetta
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/city_of_athens
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/city_of_atlanta
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/city_of_brookhaven
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/city_of_johns_creek
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/city_of_marietta
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/city_of_sandy_springs
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/city_of_savannah
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/clarke
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/clayton
+Website: http://www.claytoncountyga.gov/departments/community-development/geographic-information-system.aspx
+License: Unknown
+Required attribution: Clayton County
+
+us/ga/clinch
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/cobb
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/coffee
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/colquitt
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/columbia
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/cook
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/coweta
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/dekalb
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/dooly
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/dougherty
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/douglas
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/early
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/echols
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/evans
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/fayette
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/forsyth
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/fulton
+Website: http://share.myfultoncountyga.us:8080/geoportal/catalog/main/home.page
+License: Indemnification
+Required attribution: Yes
+
+us/ga/glynn
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/gordon
+Website: Unknown
+License: Unknown
+Required attribution: Gordon County
+
+us/ga/gwinnett
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/habersham
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/hall
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/harris
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/heard
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/henry
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/houston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/irwin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/jackson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/jefferson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/johnson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/jones
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/lanier
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/laurens
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/lee
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/liberty
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/long
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/lowndes
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/lumpkin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/macon
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/mcintosh
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/miller
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/mitchell
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/montgomery
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/muscogee
+Website: Unknown
+License: Unknown
+Required attribution: Muscogee County
+
+us/ga/newton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/paulding
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/pierce
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/quitman
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/randolph
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/richmond
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/schley
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/seminole
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/stewart
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/sumter
+Website: Unknown
+License: Unknown
+Required attribution: Sumter County
+
+us/ga/tattnall
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/telfair
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/thomas
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/tift
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/toombs
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/troup
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/turner
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/twiggs
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/ware
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/wheeler
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/whitfield
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/wilkinson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ga/worth
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/boyd
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/campbell
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/city_of_owensboro
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/city_of_paducah
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/clark
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/franklin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/hardin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/henderson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/jefferson
+Website: ftp://ftp.lojic.org/Pub/federal/
+License: Unknown
+Required attribution: Metro Louisville,  LOJIC partners
+
+us/ky/kenton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/lexington-fayette
+Website: http://data.lexingtonky.gov/dataset/address-points
+License: Public Domain
+Required attribution: Yes
+
+us/ky/madison
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/mccracken
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/meade
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/oldham
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/pendleton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/scott
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/shelby
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ky/warren
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/ascension
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/assumption
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/beauregard
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/bienville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/caddo
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/city_of_alexandria
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/city_of_bossier
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/city_of_denham_springs
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/city_of_new_iberia
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/city_of_new_orleans
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/claiborne
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/concordia
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/desoto
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/east_baton_rouge_parish
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/east_feliciana
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/iberia
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/jefferson_parish
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/lafayette
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/lincoln
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/livingston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/natchitoches
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/orleans_parish
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/pointe_coupee
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/rapides
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/red_river_parish
+Website: http://www.redriver911.com/data/
+License: Unknown
+Required attribution: Yes
+
+us/la/richland
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/st_charles_parish
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/st_james
+Website: http://stjamesassessor.com/gis-data
+License: Unknown
+Required attribution: Yes
+
+us/la/st_john_the_baptist_parish
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/st_martin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/tangipahoa
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/terrebonne
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/washington
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/webster
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/la/west_feliciana
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/md/allegany
+Website: http://alleganygis.allconet.org/
+License: Unknown
+Required attribution: Yes
+
+us/md/anne_arundel
+Website: http://www.aacounty.org/departments/planning-and-zoning/research-and-gis/
+License: Unknown
+Required attribution: Anne Arundel County
+
+us/md/baltimore
+Website: http://www.baltimorecountymd.gov/Agencies/infotech/GIS/datadownload.html
+License: Public Domain
+Required attribution: Yes
+
+us/md/carroll
+Website: http://ccgovernment.carr.org/ccg/mapserver4/gis/webpage/DigitalData.html
+License: http://ccgovernment.carr.org/ccg/mapserver4/gis/webpage/TermsOfUse.pdf
+Required attribution: Yes
+
+us/md/cecil
+Website: http://www.ccgov.org/dept_planning/gis/avdata.cfm
+License: http://www.ccgov.org/dept_planning/gis/orthos/licenseagreement_4_6_07.pdf
+Required attribution: Yes
+
+us/md/city_of_baltimore
+Website: https://data.baltimorecity.gov/
+License: Unknown
+Required attribution: City of Baltimore
+
+us/md/city_of_rockville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/md/frederick
+Website: http://www.frederickcountymd.gov/
+License: Unknown
+Required attribution: Frederick County
+
+us/md/garrett
+Website: https://www.garrettcounty.org/
+License: Unknown
+Required attribution: Yes
+
+us/md/harford
+Website: http://www.harfordcountymd.gov/gis/Index.cfm
+License: http://www.harfordcountymd.gov/gis/LicenseAgreement.pdf
+Required attribution: Yes
+
+us/md/howard
+Website: http://data.howardcountymd.gov/
+License: PD
+Required attribution: Yes
+
+us/md/montgomery
+Website: http://www.montgomeryplanning.org/gis/data_downloads.shtm
+License: Unknown
+Required attribution: Yes
+
+us/md/prince_georges
+Website: http://gisdata.pgplanning.org/opendata/
+License: Unknown
+Required attribution: Yes
+
+us/md/st_marys
+Website: http://www.co.saint-marys.md.us/gis/
+License: Unknown
+Required attribution: Yes
+
+us/md/statewide
+Website: http://geodata.md.gov/imap/rest/services/PlanningCadastre/MD_PropertyData/MapServer/exts/MDiMapDataDownload/customLayers/0
+License: Unknown
+Required attribution: Yes
+
+us/ms/city_of_biloxi
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/city_of_diamondhead
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/city_of_diberville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/city_of_gulfport
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/city_of_hattiesburg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/city_of_ocean_springs
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/city_of_pascagoula
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/city_of_pelahatchie
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/city_of_vicksburg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/copiah
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/desoto
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/hancock
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/harrison
+Website: http://harrisonms.geopowered.com/propertysearch/
+License: Unknown
+Required attribution: Yes
+
+us/ms/hinds
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/jackson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/lauderdale
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/pontotoc
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/rankin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/simpson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/warren
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ms/yazoo
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/alamance
+Website: http://apps.alamance-nc.com/gisftp/
+License: Unknown
+Required attribution: Yes
+
+us/nc/alexander
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/alleghany
+Website: http://www.webgis.net/nc/Alleghany/
+License: Unknown
+Required attribution: Yes
+
+us/nc/anson
+Website: http://www.co.anson.nc.us/PublicRecords/GISDataDownloads.aspx
+License: Unknown
+Required attribution: Yes
+
+us/nc/ashe
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/avery
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/beaufort
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/bertie
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/bladen
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/blowing_rock
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/brunswick
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/buncombe
+Website: http://www.buncombecounty.org/Governing/Depts/GIS/DataDownload.aspx
+License: Unknown
+Required attribution: Yes
+
+us/nc/burke
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/cabarrus
+Website: http://www.cabarruscounty.us/government/departments/information-technology/Pages/Data-Services.aspx
+License: Unknown
+Required attribution: Yes
+
+us/nc/caldwell
+Website: http://www.caldwellcountync.org/gis-911
+License: Unknown
+Required attribution: Yes
+
+us/nc/camden
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/carteret
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/cary
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/caswell
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/catawba
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/chatham
+Website: http://www.chathamnc.org/Index.aspx?page=123
+License: Unknown
+Required attribution: Yes
+
+us/nc/chowan
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/city_of_boone
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/city_of_carolina_beach
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/city_of_elizabeth_city
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/city_of_fuquay_varina
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/city_of_greensboro
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/city_of_king
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/city_of_salisbury
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/clay
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/cleveland
+Website: http://www.webgis.net/nc/Cleveland/
+License: Unknown
+Required attribution: Yes
+
+us/nc/columbus
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/craven
+Website: http://gis.cravencountync.gov/downloads-zip-files.aspx
+License: Unknown
+Required attribution: Yes
+
+us/nc/cumberland
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/currituck
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/dare
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/davidson
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/davie
+Website: http://www.daviecountync.gov/index.aspx?NID=394
+License: Unknown
+Required attribution: Yes
+
+us/nc/duplin
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/durham
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/ebci
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/edgecombe
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/forsyth
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/franklin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/gaston
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/gates
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/graham
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/granville
+Website: http://granvillegis.org/Downloads/tabid/55/Default.aspx
+License: Unknown
+Required attribution: Yes
+
+us/nc/greene
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/guilford
+Website: http://countyweb.co.guilford.nc.us/gis-home
+License: Unknown
+Required attribution: Yes
+
+us/nc/halifax
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/harnett
+Website: http://gis.harnett.org/GISViewer/
+License: Unknown
+Required attribution: Yes
+
+us/nc/haywood
+Website: http://maps.haywoodnc.net/downloads/default.aspx
+License: Unknown
+Required attribution: Yes
+
+us/nc/henderson
+Website: http://www.hendersoncountync.org/gis/gisdownload.html
+License: Unknown
+Required attribution: Yes
+
+us/nc/hertford
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/hoke
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/hyde
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/iredell
+Website: http://www.co.iredell.nc.us/Departments/GISMaps/datadownloads.aspx
+License: Unknown
+Required attribution: Yes
+
+us/nc/jackson
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/johnston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/jones
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/lee
+Website: http://www.leecountync.gov/Departments/GISStrategicServices/DownloadGISLayers.aspx
+License: Unknown
+Required attribution: Yes
+
+us/nc/lenoir
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/lincoln
+Website: http://www.co.lincoln.nc.us/index.aspx?NID=470
+License: Unknown
+Required attribution: Yes
+
+us/nc/macon
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/madison
+Website: http://www.madisongis.com
+License: Unknown
+Required attribution: Yes
+
+us/nc/martin
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/mcdowell
+Website: https://www.webgis.net/nc/Cleveland/
+License: Unknown
+Required attribution: Yes
+
+us/nc/mecklenburg
+Website: http://maps.co.mecklenburg.nc.us/openmapping/data.html
+License: Unknown
+Required attribution: Yes
+
+us/nc/mitchell
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/montgomery
+Website: Unknown
+License: Indemnification
+Required attribution: Yes
+
+us/nc/moore
+Website: http://www.co.moore.nc.us/index.php/data-download
+License: Unknown
+Required attribution: Yes
+
+us/nc/nash
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/new_hanover
+Website: http://www.nhcgov.com/gis-data-available-for-download/
+License: Unknown
+Required attribution: Yes
+
+us/nc/northampton
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/onslow
+Website: http://maps.onslowcountync.gov/download/
+License: Unknown
+Required attribution: Yes
+
+us/nc/orange
+Website: Unknown
+License: Indemnification
+Required attribution: Yes
+
+us/nc/pamlico
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/pasquotank
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/pender
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/perquimans
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/person
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/pitt
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/polk
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/randolph
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/richmond
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/robeson
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/rockingham
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/rowan
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/rutherford
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/sampson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/scotland
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/stanly
+Website: http://www.stanlygis.net/
+License: Unknown
+Required attribution: Yes
+
+us/nc/statewide
+Website: http://data.nconemap.com/geoportal/catalog/search/resource/details.page?uuid=%7B9E039D56-5202-43E7-8D36-D09414C0DBD6%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/stokes
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/surry
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/swain
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/town_of_chapel_hill
+Website: http://gis.townofchapelhill.org/download_data/
+License: Unknown
+Required attribution: Yes
+
+us/nc/transylvania
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/tyrrell
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/union
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/vance
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/wake
+Website: http://www.wakegov.com/gis/services/Pages/data.aspx
+License: http://www.wakegov.com/gis/services/Pages/metadata.aspx
+Required attribution: Yes
+
+us/nc/warren
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/washington
+Website: http://www.washconc.org/gis_mapping.aspx
+License: Unknown
+Required attribution: Yes
+
+us/nc/watauga
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/wayne
+Website: http://www.waynegov.com/cms/module/selectsurvey/TakeSurvey.aspx?PageNumber=1&SurveyID=154
+License: Unknown
+Required attribution: Yes
+
+us/nc/wilkes
+Website: http://data.nconemap.gov/geoportal/catalog/search/resource/details.page?uuid=%7B837C5704-49C8-45A3-B084-AEBF4CD09804%7D
+License: Unknown
+Required attribution: Yes
+
+us/nc/wilson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/yadkin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nc/yancey
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ok/acog-counties
+Website: Unknown
+License: Unknown
+Required attribution: Oklahoma and Logan Counties - Association of Central Oklahoma Governments
+
+us/ok/carter-county
+Website: Unknown
+License: Unknown
+Required attribution: Kern, Cleveland, Canadian, Logan Counties
+
+us/ok/city_of_lawton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ok/city_of_muskogee
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ok/city_of_newcastle
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ok/city_of_norman
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ok/city_of_stillwater
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ok/oklahoma
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ok/rogers
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ok/tulsa
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ok/wagoner
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/aiken
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/anderson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/beaufort
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/berkeley
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/calhoun
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/charleston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/chesterfield
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/city_of_charleston
+Website: http://data.charleston-sc.opendata.arcgis.com/
+License: Unknown
+Required attribution: Yes
+
+us/sc/city_of_rock_hill
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/city_of_spartanburg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/city_of_summerville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/colleton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/darlington
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/dorchester
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/florence
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/georgetown
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/greenville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/greenwood
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/hilton_head_island
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/horry
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/jasper
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/laurens
+Website: http://www.laurenscountysc.org/
+License: Unknown
+Required attribution: Yes
+
+us/sc/lexington
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/newberry
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/oconee
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/orangeburg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/pickens
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/saluda
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/sumter
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/union
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/sc/york
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/blount
+Website: http://www.blountgis.net/blountgis/web-maps/
+License: Unknown
+Required attribution: Yes
+
+us/tn/cheatham
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/city_of_brentwood
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/city_of_chattanooga
+Website: https://data.chattlibrary.org/Government/Address-Data/rz29-uyu4
+License: https://data.chattlibrary.org/terms
+Required attribution: Yes
+
+us/tn/city_of_johnson_city
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/city_of_memphis
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/city_of_murfreesboro
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/city_of_nashville
+Website: Unknown
+License: Unknown
+Required attribution: City of Nashville
+
+us/tn/city_of_spring_hill
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/franklin
+Website: http://gis.franklin-gov.com/public-maps-gallery/
+License: Unknown
+Required attribution: Yes
+
+us/tn/hamilton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/jefferson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/maury
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/montgomery
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/putnam
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/rutherford
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/sevier
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tn/shelby
+Website: http://opendata.arcgis.com/datasets/ab59956e886f403e8f427c2d675af4c3_0/data
+License: Unknown
+Required attribution: Yes
+
+us/tn/statewide
+Website: http://tnmap.tn.gov/
+License: Unknown
+Required attribution: Yes
+
+us/tn/williamson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/anderson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/austin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/bandera
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/bastrop
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/bexar
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/brazoria
+Website: http://www.brazoriacad.org/gis-downloads.html
+License: Unknown
+Required attribution: Yes
+
+us/tx/brazos
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/burleson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/camp
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/capcog
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/carson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_abilene
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_alvin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_amarillo
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_austin
+Website: https://data.austintexas.gov/Geodata/Address-Points/bpa2-q2tj
+License: Public Domain
+Required attribution: Yes
+
+us/tx/city_of_beaumont
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_buda
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_carrollton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_cedar_park
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_colleyville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_dalhart
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_denison
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_denton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_flower_mound
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_garland
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_horseshoe_bay
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_hurst
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_killeen
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_lewisville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_longview
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_mansfield
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_mckinney
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_palestine
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_pearland
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_pflugerville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_rosenberg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_san_antonio
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_sherman
+Website: http://www.ci.sherman.tx.us/613/GIS
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_southlake
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_sugar_land
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_temple
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_university_park
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_waco
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/city_of_waxahachie
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/colleyville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/colorado
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/comal
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/comanche
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/coryell
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/dallam
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/dallas
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/delta
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/denton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/desoto
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/dimmit
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/duval
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/ector
+Website: http://www.odessa-tx.gov/index.aspx?page=354
+License: Unknown
+Required attribution: Yes
+
+us/tx/el_paso
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/ellis
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/fannin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/fayette
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/fisher
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/freestone
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/gaines
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/galveston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/gillespie
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/gray
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/greater_houston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/grimes
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/guadalupe
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/hansford
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/hartley
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/hays
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/hidalgo_county
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/hood
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/houston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/howard
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/hunt
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/johnson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/kaufman
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/kendall
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/kerr
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/lamar
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/lasalle
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/lee
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/libery
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/liveoak
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/llano
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/lubbock
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/madison
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/maverick
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/mcculloch
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/mcmullen
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/medina
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/midland
+Website: http://www.midlandtexas.gov/225/GIS
+License: Unknown
+Required attribution: Yes
+
+us/tx/milam
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/mills
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/montgomery
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/moore
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/nacogdoches
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/new_braunfels
+Website: http://www.nbtexas.org/index.aspx?NID=1246
+License: Indemnification
+Required attribution: Yes
+
+us/tx/nolan
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/north_richland_hills
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/ochiltree
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/orange
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/parmer
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/plano
+Website: http://www.collincad.org/downloads/viewcategory/16-gis-downloads
+License: Unknown
+Required attribution: Yes
+
+us/tx/rains
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/reeves
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/rockwall
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/round_rock
+Website: http://www.roundrocktexas.gov/departments/gis/downloadable-gis-files/
+License: Indemnification
+Required attribution: Yes
+
+us/tx/runnels
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/san_antonio
+Website: http://www.sanantonio.gov/GIS/GISdata
+License: Indemnification
+Required attribution: Yes
+
+us/tx/schleicher
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/shackelford
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/statewide-partial
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/tarrant-county
+Website: https://gisit.tarrantcounty.com/publicmapviewer/
+License: Unknown
+Required attribution: Yes
+
+us/tx/texoma-counties
+Website: Unknown
+License: Unknown
+Required attribution: Cooke,Fannin,Grayson Counties - Texoma Council of Governments
+
+us/tx/titus
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/trinity
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/uvalde
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/vanzandt
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/waco
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/walker
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/washington
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/wharton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/williamson
+Website: http://www.williamson-county.org/CountyDepartments/GIS/Data/tabid/532/language/en-US/Default.aspx
+License: Indemnification
+Required attribution: Yes
+
+us/tx/wilson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/wood
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/young
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/tx/zavala
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/accomack
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/albemarle
+Website: http://www.albemarle.org/department.asp?department=gds&relpage=3914#Addresses
+License: http://www.albemarle.org/department.asp?department=gds&relpage=2908
+Required attribution: Yes
+
+us/va/alleghany
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/amelia
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/amherst
+Website: http://amherstgis.timmons.com/
+License: Unknown
+Required attribution: Yes
+
+us/va/appomattox
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/arlington
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/bedford
+Website: http://www.co.bedford.va.us/GIS/index.asp
+License: Indemnification
+Required attribution: Yes
+
+us/va/campbell
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_alexandria
+Website: https://www.alexandriava.gov/gis/info/default.aspx?id=7654
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_charlottesville
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_chesapeake
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_emporia
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_falls_church
+Website: http://www.fallschurchva.gov/158/Maps
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_lexington
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_lynchburg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_newport_news
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_norfolk
+Website: http://data.orf.opendata.arcgis.com/datasets/e452982670d3460eaaa64e3874c283ca_0
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_norton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_petersburg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_radford
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_richmond
+Website: http://www.richmondgov.com/content/GIS/index.aspx
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_rural_retreat
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_salem
+Website: http://gis.salemva.gov/
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_staunton
+Website: http://gis.ci.staunton.va
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_williamsburg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/city_of_winchester
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/clarke
+Website: Unknown
+License: Public Domain
+Required attribution: Yes
+
+us/va/essex
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/fairfax
+Website: http://opendata.arcgis.com/datasets/b4718671c95d456ebc38bf7b784d7602_0
+License: Unknown
+Required attribution: Yes
+
+us/va/fauquier
+Website: https://hub.arcgis.com/datasets/88a6087d641046b5b1d652e419d88488_7
+License: Unknown
+Required attribution: Yes
+
+us/va/fluvanna
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/franklin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/giles
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/grayson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/greene
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/halifax
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/henrico
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/highland
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/isle_of_wight
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/james_city
+Website: https://www.jamescitycountyva.gov/assessments/gis-mapping-layers.html
+License: Unknown
+Required attribution: Yes
+
+us/va/king_and_queen
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/king_george
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/loudoun
+Website: https://logis.loudoun.gov/weblogis/
+License: Unknown
+Required attribution: Yes
+
+us/va/louisa
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/lunenburg
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/madison
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/middlesex
+Website: http://www.co.middlesex.va.us/index_911GIS_Downloads.html
+License: Unknown
+Required attribution: Yes
+
+us/va/nelson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/new_kent
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/nottoway
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/orange
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/prince_william
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/roanoke
+Website: http://gisre.roanokeva.gov/
+License: Unknown
+Required attribution: Yes
+
+us/va/rockbridge
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/shenandoah
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/smyth
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/spotsylvania
+Website: http://gis.spotsylvania.va.us/Spotsylvania/
+License: Unknown
+Required attribution: Yes
+
+us/va/stafford
+Website: http://data-staffordva-gis.opendata.arcgis.com/
+License: Unknown
+Required attribution: Yes
+
+us/va/statewide
+Website: http://vgin.maps.arcgis.com/home/item.html?id=100e5e12ddc14748a5ec3b8b997af13a
+License: public domain
+Required attribution: Yes
+
+us/va/town_of_blacksburg
+Website: http://www.gis.lib.vt.edu/gis_data/Blacksburg/GISPage.html
+License: Unknown
+Required attribution: Yes
+
+us/va/virginia_beach
+Website: http://gis.data.vbgov.com/
+License: Unknown
+Required attribution: Yes
+
+us/va/warren
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/warrenton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/va/wise
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/wv/hancock
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/wv/harrison
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/wv/jefferson
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/wv/preston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/wv/raleigh
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/wv/statewide
+Website: http://www.dhsem.wv.gov/Operations/Pages/Statewide-Addressing-and-Mapping.aspx
+License: Unknown
+Required attribution: Yes

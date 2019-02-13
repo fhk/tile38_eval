@@ -2,7 +2,9 @@
 
 Have you ever wondered how Google, Apple et al. create their maps and make them searchable? Me too!
 
-With that goal in mind we want to find a solution that lets us easily perform ETL (Export, Transform, Load) as well as more complex geospatial queries like intersect. So the current scale is maybe hard to estimate, back of the envelope:
+This has become more and more interesting as the industry has shifted from generating tiles on the server side to being able to create client side objects utilizing GeoJSON. Tools like the MapBox API, ESRI Feature service, and Ubers deck.gl enabled by client side web-gl are a few but there are many more. 
+
+With the goal in mind we want to find a solution that lets us easily perform ETL (Export, Transform, Load) as well as more complex geospatial queries like intersect. So the current scale is maybe hard to estimate, back of the envelope:
 
 1. We want to insert all the OpenAddress.io address points - [523,263,177](http://results.openaddresses.io)
 2. We want to insert all of OSM linestring street data - [130,511,321](https://wiki.openstreetmap.org/wiki/Key:highway)
@@ -10,9 +12,11 @@ With that goal in mind we want to find a solution that lets us easily perform ET
 
 So this is alot, how is anyone even handling this? One technique involves [quadtrees](https://people.cs.vt.edu/~shaffer/Papers/SamePR84.pdf) and perhaps making shards of data from this. But what would the best tree structure be? [Here](https://candu.github.io/blog/2013/02/21/quadtree-cartography/) is a neat exploration. There is even a [post](https://medium.com/@tidwall/faster-geospatial-queries-in-tile38-f771e2f6b1bd) for tile38. Then how do you handle the requests? Oh and lets make it affordable...
 
+Another option is to perhaps have a parent service that identifies which subset of data to query. To test this we need to see what a "subset" could be.
+
 OK, so the whole area is in too hard bucket for now! If anyone has ideas please reach out. Looks like I'll just have to pick my data and download it manually. Let's perhaps start with the state of Texas in the USA. Can we measure the perfomance the data set in a store to examine if its fit for purpose?
 
-There are a number of potential options, but we like new tech...
+There are a number of potential options:
 
 I recently saw a great [demo](https://geonames.tile38.com) and [post](https://medium.com/@s32x/mapping-11m-geonames-points-with-tile38-c9d326461b23) on Tile38, this might fit the requirements?
 
@@ -44,7 +48,6 @@ I recently saw a great [demo](https://geonames.tile38.com) and [post](https://me
     streets = fiona.open("./tx/gis_osm_roads_free_1.shp")
 ```
 
-
 ## 2. Set up
 
 Goto - https://github.com/tidwall/tile38
@@ -55,27 +58,39 @@ ssh into your machine of choice or run locally. In this case its just a ubuntu i
 
 Follow the docker instructions:
 
-### Remote
+### Docker
 
-```docker pull tile38/tile38```
+```
+docker pull tile38/tile38
+```
 
 ### Local
 
-```conda create -n tile38 python=3.6```
+```
+conda create -n tile38 python=3.6
+```
 
-```source activate tile38```
+```
+source activate tile38
+```
 
-```conda install redis```
+```
+conda install redis
+```
 
 Now lets test it out:
 
-```curl --data "set fleet truck3 point 33.4762 -112.10923" your.ip.address.here:80```
+```
+curl --data "set fleet truck3 point 33.4762 -112.10923" your.ip.address.here:port
+```
 
 You should see a response:
 
-```{"ok":true,"elapsed":"331.8µs"}```
+```
+{"ok":true,"elapsed":"331.8µs"}
+```
 
-## 3. Run
+## 3. Run - Local/Remote
 
 So my first attempt was to do this over the internet... Not so lucky...
 
@@ -112,13 +127,23 @@ Now lets test that we can connect
 ```
 curl --data "set fleet truck3 point 33.4762 -112.10923" your.ip.add.here:9851
 ```
+Success?
+
+Next we want to run the "get_data.py", "insert_data.py" and finally the "intersect.py" scripts.
+
+This all works nicely.
+
+We can start, insert and query the tile38 server... and its really fast!
 
 Success?
 
-Next step lets get that data local by transfering the code. I'm using MC (Midnight Commander) to just
+Yes, but it seems we'll need to preconstruct all the instances with the data inserted.
 
+Tip: you can get that data local by transfering the code. I'm using MC (Midnight Commander). Or just clone the code.
 
 ## 4. Compare
+
+TODO
 
 ## 5. Future
 
@@ -132,11 +157,12 @@ There are a number of other approaches that might be valid:
 6. Redis
 7. ... more
 
-# Other
+There are also a number of performance enhancements that could be done to speed up the insert and query calls.
+
+## Other
 
 - Further analysis - https://medium.com/@frederic.rodrigo/pbf2redis-eae7fcada735
 - Fast processing - http://matthewrocklin.com/blog/work/2017/09/21/accelerating-geopandas-1
 - Cython Geopandas - https://jorisvandenbossche.github.io/blog/2017/09/19/geopandas-cython/
 - Aurora AWS - https://aws.amazon.com/blogs/database/amazon-aurora-under-the-hood-indexing-geospatial-data-using-z-order-curves/
-
 
